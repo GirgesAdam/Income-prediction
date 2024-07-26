@@ -1,1 +1,1 @@
-# Income-prediction
+Implemented logistic regression and a random forest classifier to predict income levels (>50K or <=50K) based on demographic data. Conducted data preprocessing, feature engineering, and model optimization using grid search and cross-validation, achieving an 85% accuracy on the testing dataset.
